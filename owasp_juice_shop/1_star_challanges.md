@@ -85,3 +85,9 @@
 - Inspect the button and remove the disabled property from the tag.
 - Now the button is enabled.
 - Submit the form to solve the challange.
+
+12. Bonus payload (__1 Star__)
+
+- Use the payload given in the description on the search bar in home page.
+
+- You will solve the challange by hitting enter.

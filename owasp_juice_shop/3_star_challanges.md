@@ -14,3 +14,9 @@
 - Forward the request.
 - You will be registered as admin.
 - Challenge completed.
+
+
+3. API-only XSS (__3 Star__)
+
+- Perform a persisted XSS attack with `<iframe src="javascript:alert('xss')">` without using the frontend application at all.
+

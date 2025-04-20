@@ -143,3 +143,24 @@
 - Click on the submit button.
 - Solve the captcha.
 - Challenge solved.
+
+13. NFT Takeover (__2 Star__)
+
+- Take over the wallet containing our official Soul Bound Token(NFT)
+
+- Go to about us section and search for comment "Please send me the juicy chatbot NFT in my wallet".
+
+- Find the 12 word seedphrase of the crypto wallet in that comment "purpose ...".
+
+- Visit `/juicy-nft` in the juice shop app.
+
+- Enter the seedphrase in the wallet seedphrase field.
+
+- Use the seedphrase to drive the private key of the first etherium wallet. You can visit `https://iancoleman.io/bip39/` to get same.
+
+- Enter the private key to the input box.
+
+- Click on the submit button.
+
+- The challange will be solved.
+
